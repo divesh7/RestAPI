@@ -1,6 +1,6 @@
 This is task given by Nimap infotech 
 
-
+The task is to design APIS for the machine test using any REST framework
 
 
 Consider the following scenario where we have 3 entities in our system.
@@ -11,8 +11,6 @@ Consider the following scenario where we have 3 entities in our system.
 
 3. Project
 
-
-The task is to design APIS for the machine test using any REST framework
 
 
 We have the number of users registered in our system.
